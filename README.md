@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://github.com/enzotrucchi/enzotrucchi/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
   👋 Hi! I'm Enzo, a <strong>Full Stack Developer</strong> & <strong>Software Architect</strong> <code> with > 10y in IT industry. </code>

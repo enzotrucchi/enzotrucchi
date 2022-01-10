@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong> Javascript ES6, Typescript, Angular, PHP, HTML5, CSS, Sass, Linux, Ionic, Jquery, SQL, C# </strong>
+  🚀 Skills: <strong> Javascript ES6, Typescript, Angular, PHP, HTML5, CSS, Bootstrap, Flexbox, Sass, Linux, Ionic, Jquery, SQL, C# </strong>
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  ✨ 2022 wish list skills: <code>NodeJs, React, Vue, Mongo, Svelte, Next</code>
+  ✨ 2022 wish list skills: <code>NodeJs, React, Vue, Mongo, Svelte, Next, GraphQL</code>
 </p>
 
 <br>
@@ -36,7 +36,7 @@
 
 <br>
 
-<h4> 📚 Mi book (free):
+<h4> 📚 My book (free):
   <br><br>
    <a href="https://enzotrucchi.com" alt="Web">
     <img src="https://img.shields.io/badge/-Download-1C1C1C?style=for-the-badge&logo=Bookstack&logoColor=00FFFF&link=https://enzotrucchi.com"/>

@@ -39,7 +39,7 @@
 <h4> 📚 My book (free):
   <br><br>
    <a href="https://enzotrucchi.com" alt="Web">
-    <img src="https://img.shields.io/badge/-Download-1C1C1C?style=for-the-badge&logo=Bookstack&logoColor=00FFFF&link=https://enzotrucchi.com"/>
+    <img src="https://img.shields.io/badge/-Download-1C1C1C?style=for-the-badge&logo=Bookstack&logoColor=00FFFF&link=https://github.com/enzotrucchi/De-junior-al-infinito/blob/main/De-junior-al-infinito.pdf"/>
   </a>
 
 </h4>

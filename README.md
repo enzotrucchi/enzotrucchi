@@ -69,10 +69,9 @@
 
 <hr>
 
-<p align="left">
-  ✨ Active learning:
-  
-</p>
+
+### 🌱 I’m currently learning
+
 <a href="#" alt="React">
   <img src="https://img.shields.io/badge/-React-1C1C1C?style=for-the-badge&logo=React"/>
 </a>
@@ -83,11 +82,18 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </a>
 
+<br />
+
+<a href="#" alt="NodeJS">
+  <img src="https://img.shields.io/badge/Software Architecture & Design principles-1C1C1C?style=for-the-badge&logoColor=white"/>
+</a>
+
 <hr>
 
+###  💌 Contact
 <p align="left">
-  💌 Contact & media: trucchienzo[@]gmail.com
- </p>
+ trucchienzo[@]gmail.com
+</p>
  
 <p align="left">
   
@@ -106,4 +112,17 @@
   <a href="https://dev.to/enzotrucchi" alt="Dev.to">
       <img src="https://img.shields.io/badge/-Blog-1C1C1C?style=for-the-badge&logo=dev.to"/>
   </a>
+</p>
+
+###  💻 Last works
+<p align="left">
+In last years I've been working on web apps & PWA of:
+<ul>
+ <li> Transport Managment Systems </li>
+ <li> Warehouse Managment Systems </li>
+ <li> Healthcare Management System </li>
+ <li> Landing Pages </li>
+ <li> Corporate websites </li>
+</ul>
+ 
 </p>

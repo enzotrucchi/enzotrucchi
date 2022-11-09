@@ -69,7 +69,6 @@
 
 <hr>
 
-
 ### 🌱 I’m currently learning
 
 <a href="#" alt="React">
@@ -87,6 +86,20 @@
 <a href="#" alt="NodeJS">
   <img src="https://img.shields.io/badge/Software Architecture & Design principles-1C1C1C?style=for-the-badge&logoColor=white"/>
 </a>
+
+<hr>
+
+###  💻 Last works
+<p align="left">
+In last years I've been working on web apps & PWA of:
+<ul>
+ <li> Transport Managment Systems </li>
+ <li> Warehouse Managment Systems </li>
+ <li> Healthcare Management System </li>
+ <li> Landing Pages </li>
+ <li> Corporate websites </li>
+</ul>
+</p>
 
 <hr>
 
@@ -112,17 +125,4 @@
   <a href="https://dev.to/enzotrucchi" alt="Dev.to">
       <img src="https://img.shields.io/badge/-Blog-1C1C1C?style=for-the-badge&logo=dev.to"/>
   </a>
-</p>
-
-###  💻 Last works
-<p align="left">
-In last years I've been working on web apps & PWA of:
-<ul>
- <li> Transport Managment Systems </li>
- <li> Warehouse Managment Systems </li>
- <li> Healthcare Management System </li>
- <li> Landing Pages </li>
- <li> Corporate websites </li>
-</ul>
- 
 </p>
